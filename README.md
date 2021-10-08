@@ -6,11 +6,11 @@
 
 Examples
 
-<li>trap("There is a trap.") ➞ "BOO!!"</li>li>
+<li>trap("There is a trap.") ➞ "BOO!!"</li>
 
-<li>ttrap("Hey, did you think there is a TRAP?") ➞ "BOO!!"</li>t
+<li>trap("Hey, did you think there is a TRAP?") ➞ "BOO!!"</li>
 
-<li>ttrap("This goes traaa!!!") ➞ "Relax, there's no trap."</li>t
+<li>trap("This goes traaa!!!") ➞ "Relax, there's no trap."</li>
 
 Notes
 The string "trap" may appear in different character cases (i.e. uppercase, lowercase, mixed).
