@@ -6,10 +6,8 @@ import java.util.regex.Pattern;
 public class Ex1 {
 
     public static void main(String[] args) {
-
+        //Demo
         System.out.println(trap("This goes traaa"));
-
-
     }
 
     public static boolean trap (String sourceText){
